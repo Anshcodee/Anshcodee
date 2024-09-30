@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋, Anshuman here!
 
+- 🌱 I’m currently learning Java, Spring Boot and DSA
+- 🔭 I’m currently working on Backend projects with Spring Boot
+
+- 📫 How to reach me:
+  LinkedIn: [...](https://www.linkedin.com/in/anshuman-singh-a13566261/)
 <!--
 **Anshcodee/Anshcodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
