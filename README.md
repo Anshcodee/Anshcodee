@@ -1,7 +1,7 @@
 ## Hi there 👋, Anshuman here!
 
-- 🌱 I’m currently learning Power BI, Python and MySQL
-- 🔭 I’m also working on Backend projects with Spring Boot
+- 🌱 I’m currently learning Python, MySQL, Apache Airflow and Pyspark
+- 🔭 I’m also working on Data Engineering and analytics projects
 
 - 📫 How to reach me:
   LinkedIn: [...](https://www.linkedin.com/in/anshuman-singh-a13566261/)
