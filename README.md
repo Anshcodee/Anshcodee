@@ -1,6 +1,6 @@
 ## Hi there, I'm Anshuman 👋
 
-I build end-to-end AI & Machine Learning systems—from large-scale data pipelines and feature engineering to predictive modeling, explainable AI, and LLM risk evaluation.
+I build end-to-end AI & Machine Learning systems, from large scale data pipelines and feature engineering to predictive modeling, explainable AI, and LLM risk evaluation.
 
 Currently exploring scalable ML infrastructure, analytics engineering, and responsible AI.
 
